@@ -1,7 +1,2 @@
-package be.abis.exercise.ut;
-
-import org.junit.Ignore;
-
-@Ignore
-public class NoIdeaYetWhatWeAreGoingToTest {
+package be.abis.exercise.ut;public class NoIdeaYetWhatWeAreGoingToTest {
 }
