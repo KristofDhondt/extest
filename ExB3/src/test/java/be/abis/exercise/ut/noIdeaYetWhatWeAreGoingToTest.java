@@ -1,2 +1,4 @@
-package be.abis.exercise.ut;public class noIdeaYetWhatWeAreGoingToTest {
+package be.abis.exercise.ut;
+
+public class noIdeaYetWhatWeAreGoingToTest {
 }

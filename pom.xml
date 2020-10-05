@@ -10,12 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>be.abos.exercise</module>
-        <module>ExA3</module>
-        <module>ExA4</module>
-        <module>ExA5</module>
-        <module>ExA6</module>
-        <module>ExA7</module>
-        <module>ExA8</module>
+        <module>ExB3</module>
     </modules>
 
     <build>
@@ -31,5 +26,14 @@
             </plugin>
         </plugins>
     </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>
