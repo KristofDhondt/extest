@@ -2,6 +2,7 @@ package be.abis.exercise.ut;
 
 import be.abis.exercise.model.Address;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.io.File;
@@ -55,5 +56,9 @@ public class TestAdress {
         file.setReadOnly();
         a.writeToFile();
     }
+
+    @Ignore
+    public void noIdeaYetWhatWeAreGoingToTest() {
+        }
 
 }

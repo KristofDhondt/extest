@@ -10,7 +10,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 
-public class ExB3 {
+public class ExB4 {
 
 	public static void main(String[] args) {
 
